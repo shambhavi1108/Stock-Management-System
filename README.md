@@ -1,0 +1,2 @@
+# Stock-Management-System
+Stock management system is a java application project which is designed to keep track of the stock. Stock Management System is a web-based application developed using Java programming language. The main objective of this project is to manage a stock for a company or organization, and take care of sales and purchase of products. This project includes various modules and features to add, edit, view and delete stock-management-related things in the system database.
